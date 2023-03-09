@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "853630832919",
+    "project_id": "morteza-rezaei-mynotes-ornek1",
+    "storage_bucket": "morteza-rezaei-mynotes-ornek1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853630832919:android:86770f5da3505eed176752",
+        "android_client_info": {
+          "package_name": "com.example.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853630832919-0vh29as8vn7if5a10c12ab37hqm8dneg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC71FD9vtPiNq7o4qC7H1Wwyv6rVQQlUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853630832919-0vh29as8vn7if5a10c12ab37hqm8dneg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
